@@ -30,6 +30,7 @@ A simple e-commerce website project using PHP and JavaScript, including product 
 - Sales statistics: Top 5 customers by total spending within a date range
 
 ## 📁 Project Structure
+```plaintext
 ChiikawaStore/
 ├── assets/        # CSS, JS, Images
 ├── includes/      # Config, header, footer, functions
@@ -39,8 +40,8 @@ ChiikawaStore/
 ├── uploads/       # Uploaded product images
 ├── db/            # Database SQL file
 └── index.php      # Entry point
+```
 
 ## 👤 Student Info
-
-**Phạm Kim Hoàng**  
-**ID**: 3120410183 
+Name: **Phạm Kim Hoàng**  
+ID: **3120410183**
